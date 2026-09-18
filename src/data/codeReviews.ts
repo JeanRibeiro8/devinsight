@@ -1,0 +1,38 @@
+export const codeReviews = [
+  {
+    id: 1,
+    pullRequest: 'Improve authentication flow',
+    repository: 'devinsight-web',
+    reviewer: 'Lucas Martins',
+    status: 'Awaiting review',
+    comments: 4,
+    reviewTime: '2h 15m',
+  },
+  {
+    id: 2,
+    pullRequest: 'Add analytics dashboard',
+    repository: 'devinsight-web',
+    reviewer: 'Maria Silva',
+    status: 'Completed',
+    comments: 7,
+    reviewTime: '3h 42m',
+  },
+  {
+    id: 3,
+    pullRequest: 'Fix repository filters',
+    repository: 'devinsight-api',
+    reviewer: 'Jean Ribeiro',
+    status: 'Awaiting review',
+    comments: 2,
+    reviewTime: '1h 28m',
+  },
+  {
+    id: 4,
+    pullRequest: 'Update dependencies',
+    repository: 'devinsight-api',
+    reviewer: 'Carlos Souza',
+    status: 'Completed',
+    comments: 5,
+    reviewTime: '4h 10m',
+  },
+]

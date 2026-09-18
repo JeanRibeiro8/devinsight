@@ -1,0 +1,42 @@
+export const pullRequests = [
+  {
+    id: 1,
+    title: 'Improve authentication flow',
+    repository: 'devinsight-web',
+    author: 'Jean Ribeiro',
+    status: 'In review',
+    updated: '2 hours ago',
+  },
+  {
+    id: 2,
+    title: 'Add analytics dashboard',
+    repository: 'devinsight-web',
+    author: 'Lucas Martins',
+    status: 'Approved',
+    updated: '5 hours ago',
+  },
+  {
+    id: 3,
+    title: 'Fix repository filters',
+    repository: 'devinsight-api',
+    author: 'Maria Silva',
+    status: 'Open',
+    updated: '1 day ago',
+  },
+  {
+    id: 4,
+    title: 'Update dependencies',
+    repository: 'devinsight-api',
+    author: 'Carlos Souza',
+    status: 'Merged',
+    updated: '2 days ago',
+  },
+  {
+    id: 5,
+    title: 'Close unused dashboard states',
+    repository: 'analytics-service',
+    author: 'Maria Silva',
+    status: 'Closed',
+    updated: '3 days ago',
+  },
+]
