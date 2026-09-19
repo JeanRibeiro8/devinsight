@@ -475,13 +475,6 @@ This project was built as part of my **frontend development portfolio**, with a 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](jeanrsantos10@gmail.com)
 
 </div>
-
----
-
-## 📄 License
-
-This project is available under the **MIT License**.
-
 ---
 
 <div align="center">
